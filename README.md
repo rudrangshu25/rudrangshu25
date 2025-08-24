@@ -48,7 +48,6 @@
 
 ## 🏆 Achievements  
 
-- 🥇 **6th Semester CSE Student (MAKAUT)**  
 - ✅ Built multiple full-stack projects during learning phase  
 - 🚀 Exploring **Generative AI** projects (Tattoo Designer, etc.)  
 - 🎓 Constantly learning new tech & improving problem-solving skills  
