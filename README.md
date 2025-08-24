@@ -5,7 +5,9 @@
   </a>
 </h3>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 🚀 About Me  
 - 🌱 Exploring **AI + Full Stack Development**  
@@ -13,7 +15,9 @@
 - 🎯 Goal: Build impactful tech that inspires  
 - ⚡ Fun fact: I debug faster when I have ☕ coffee  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 🛠️ Skills  
 
@@ -21,7 +25,9 @@
   <img src="https://skillicons.dev/icons?i=wu,python,java,cpp,javascript,typescript,react,nextjs,nodejs,express,mysql,mongodb,git,github,linux,vscode,html,css,tailwind,bootstrap,figma&perline=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 📂 Featured Projects  
 
@@ -31,7 +37,9 @@
 | 🌍 **TripIndia** | Travel site with React frontend | React, Bootstrap, Vite |
 | 📊 **Survey Website** | Simple survey & analytics platform | React, Tailwind CSS |
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 📊 GitHub Stats  
 
@@ -44,7 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrangshu25&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 🏆 Achievements  
 
@@ -52,7 +62,9 @@
 - 🚀 Exploring **Generative AI** projects (Tattoo Designer, etc.)  
 - 🎓 Constantly learning new tech & improving problem-solving skills  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 📚 Currently Learning  
 
@@ -61,7 +73,9 @@
 - 🛠 **Backend with Go & Node.js**  
 - ☁ **Cloud (AWS, Firebase)**  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -70,7 +84,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 ## 🐍 Contribution Snake  
 
@@ -78,6 +94,8 @@
   <img src="https://github.com/rudrangshu25/rudrangshu25/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px"/>
+</p>
 
 <p align="center"><i>"Turning ideas into code, one bug at a time 🐞"</i></p>
